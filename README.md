@@ -18,11 +18,13 @@
 
 ```
 {
-"domain": "https://ahmadosbeh-server-deploy-dev.herokuapp.com/",
+"domain": "https://ahmadosbeh-basic-express-serve.herokuapp.com/",
 "status": "running",
 "port": 3003
 }
 ```
+
+<example hit : https://ahmadosbeh-basic-express-serve.herokuapp.com/person?name=ahmad>
 
 **Tests**
 
